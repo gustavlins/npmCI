@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "description": "Integração de CI com a LumeStack",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^15.13.0"
+  }
 }
