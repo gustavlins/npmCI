@@ -1,0 +1,7 @@
+{
+  "name": "lumestackCICD",
+  "version": "1.0.0",
+  "description": "Integração de CI com a LumeStack",
+  "main": "index.js",
+  "license": "MIT"
+}
